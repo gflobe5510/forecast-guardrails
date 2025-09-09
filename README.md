@@ -1,4 +1,6 @@
 # Forecast Guardrails (MAPE drift alerts)
+![Cone view](assets/forecast_cone.png)
+
 Lightweight template for rolling backtests, drift alerts, and a cone chart.
 Quick start:
 ```
